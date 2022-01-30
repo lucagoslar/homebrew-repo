@@ -1,26 +1,26 @@
-# Personal [Homebrew](https://brew.sh/) Tap
+## Personal [Homebrew](https://brew.sh/) Tap
 
-## Usage
+### Usage
 
-### Adding this tap
+#### Adding this tap
 
 ```
 brew tap lucagoslar/homebrew-repo
 ```
 
-### Remove this tap
+#### Remove this tap
 
 ```
 brew untap lucagoslar/homebrew-repo
 ```
 
-### Installing a formula from this tap
+#### Installing a formula from this tap
 
 ```
 brew install lucagoslar/homebrew-repo/<formula>
 ```
 
-## Avaliable formulaes
+### Avaliable formulaes
 
 | Name    | Description                                                                  |
 | :------ | :--------------------------------------------------------------------------- |
